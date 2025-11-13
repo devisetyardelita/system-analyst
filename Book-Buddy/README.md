@@ -1,5 +1,5 @@
 ## **Book Buddy**
-Projects is a service that provides access to information about books, such as titles, authors, synopses, and publication years.   
+is a service that provides access to information about books, such as titles, authors, synopses, and publication years.   
 
 ---
 
