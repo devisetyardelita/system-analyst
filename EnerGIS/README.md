@@ -1,5 +1,5 @@
 ## **EnerGIS**
-Projects an educational application that also maps renewable energy in Indonesia, particularly power plants that use renewable energy sources. EnerGIS aims to increase the knowledge and awareness of the Indonesian people regarding renewable energy and its application in Indonesia, including the types of renewable energy, energy conversion, and its role in everyday life.  
+An educational application that also maps renewable energy in Indonesia, particularly power plants that use renewable energy sources. EnerGIS aims to increase the knowledge and awareness of the Indonesian people regarding renewable energy and its application in Indonesia, including the types of renewable energy, energy conversion, and its role in everyday life.  
 
 ---
 
