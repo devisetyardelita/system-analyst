@@ -1,6 +1,6 @@
 ## **System & Data Analyst**
 Projects focusing on documentation.  
-- **2023 ENERGIS Website** – Energy literacy mapping and visualization platform [view projects](https://github.com/devisetyardelita/system-analyst/tree/main/EnerGIS)  
+- **2023 EnerGIS Website** – Energy literacy mapping and visualization platform [view projects](https://github.com/devisetyardelita/system-analyst/tree/main/EnerGIS)  
   *Role: System & Data Analyst* 
 - **2023 Book Buddy** – Digital library and book borrowing mobile app [view projects](https://github.com/devisetyardelita/system-analyst/tree/main/Book-Buddy)  
   *Role: System & Data Analyst* 
